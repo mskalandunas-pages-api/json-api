@@ -1,0 +1,9 @@
+{
+    "agents": [
+        {
+            "name": "Fake Name",
+            "address": "22 Fake address rd.",
+            "url": "www.url.com"
+        }
+    ]
+}
